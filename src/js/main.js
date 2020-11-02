@@ -1,4 +1,4 @@
-//= jquery.min.js
+
 //код для слайдера калькулятора
 let stepArray = [
     0,
